@@ -35,6 +35,7 @@ The transaction history page allows for detailed analysis and management.
 ![alt text](image-1.png)
 ### Create Payment Page
 The simple form for initiating a new payment.
+<img width="1048" height="861" alt="image" src="https://github.com/user-attachments/assets/ad6758ed-c703-4932-834f-6fd11812327c" />
 
 
 ### Check Status Page
