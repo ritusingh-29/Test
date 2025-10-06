@@ -3,7 +3,7 @@
 
 This is the frontend for the School Payment and Dashboard Application, built with React. It provides a modern, responsive, and user-friendly interface to manage and visualize payment transactions by integrating with a dedicated backend REST API. The application features a high-level dashboard for quick insights and a detailed transaction history page with powerful filtering and search capabilities.
 
-**Live Demo:** **Click Here to View the Deployed Application**https://school-payment-eta.vercel.app/dashboard
+**Live Demo:** **Click Here to View the Deployed Application** https://school-payment-eta.vercel.app/dashboard
 
 -----
 
@@ -23,23 +23,26 @@ This is the frontend for the School Payment and Dashboard Application, built wit
 ## 📸 Application Screenshots
 
 ### Dashboard Overview
-
 The main dashboard provides a quick summary and easy navigation.
 
-![DashBoard](image.png)
+<img width="1919" height="862" alt="image" src="https://github.com/user-attachments/assets/9323c17e-184d-4347-9063-7e79ee75be7a" />
+
 
 ### Transaction History
-
 The transaction history page allows for detailed analysis and management.
 
-![alt text](image-1.png)
+<img width="1895" height="859" alt="image" src="https://github.com/user-attachments/assets/3fcc649f-fc48-4ccc-b75c-2cebaeeccf2e" />
+
 ### Create Payment Page
 The simple form for initiating a new payment.
-<img width="1048" height="861" alt="image" src="https://github.com/user-attachments/assets/ad6758ed-c703-4932-834f-6fd11812327c" />
 
+<img width="1048" height="861" alt="image" src="https://github.com/user-attachments/assets/ad6758ed-c703-4932-834f-6fd11812327c" />
 
 ### Check Status Page
 The interface for checking the status of a specific transaction.
+
+<img width="993" height="442" alt="image" src="https://github.com/user-attachments/assets/8abc8446-5cae-4459-8f8a-25c1d51523fa" />
+
 -----
 
 ## 🛠️ Tech Stack
