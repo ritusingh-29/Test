@@ -3,7 +3,7 @@
 
 This is the frontend for the School Payment and Dashboard Application, built with React. It provides a modern, responsive, and user-friendly interface to manage and visualize payment transactions by integrating with a dedicated backend REST API. The application features a high-level dashboard for quick insights and a detailed transaction history page with powerful filtering and search capabilities.
 
-**Live Demo:** **[Click Here to View the Deployed Application]**https://school-payment-eta.vercel.app/dashboard
+**Live Demo:** **Click Here to View the Deployed Application**https://school-payment-eta.vercel.app/dashboard
 
 -----
 
